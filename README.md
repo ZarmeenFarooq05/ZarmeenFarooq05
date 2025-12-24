@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zarmeeen M.Farooq</h1>
-<h3 align="center">Frontend Developer | HTML5, CSS3, JS, React Enthusiast</h3>
+<h3 align="center">MERN Stack Developer | React, Node, JS, CSS3 Enthusiast</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zarmeenfarooq05" alt="zarmeenfarooq05" /></a> </p>
 
